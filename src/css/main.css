@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+
+ <div class="relative  w-max h-max bg-slate-300 rounded overflow-hidden shadow-md shadow-pink-300 mb-10">
+                        <!-- class="w-[300] h-[200] rounded-lg object-fill sm:w-[100] sm:h-[100] -->
+                        <img src="images/Tori.jpg" alt="" class=" max-w-[400] w-full ">
+                        <div class="text-pink-400">
+                            <span class="font-semibold">Tori or Guinea Fufu</span>
+                            <span class="block">Created by MSaifou </span>
+                        </div>
+                        <div class="bg-orange-400 rounded-full text-xs px-5 absolute top-0 mt-3 ml-3"  >
+                            <span>25 Mins</span>
+                        </div>
+                    </div>
+                    <div class="relative  w-max h-max bg-slate-300 rounded overflow-hidden shadow-md shadow-pink-300 mb-10 ">
+                        <!-- class="w-[300] h-[200] rounded-lg object-fill sm:w-[100] sm:h-[100] -->
+                        <img src="images/Fonio.jpg" alt="" class=" max-w-[400]  w-full max-h-[225]">
+                        <div class="text-pink-400">
+                            <span class="font-semibold">Fonio</span>
+                            <span class="block">Created by MSaifou </span>
+                        </div>
+                        <div class="bg-orange-400 rounded-full text-xs px-5 absolute top-0 mt-3 ml-3"  >
+                            <span>20 Mins</span>
+                        </div>
+                    </div>*/
+
