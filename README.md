@@ -1,1 +1,1 @@
-This is a simple website using html and tailwind css 
+This is a simple website using html  tailwind css and javascript
